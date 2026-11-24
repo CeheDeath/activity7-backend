@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
   </style></head><body>
   <h1>IT Support Desk API</h1>
   <p><strong>Project:</strong> IT Support Desk<br>
-     <strong>Student number:</strong> YOUR-STUDENT-NUMBER<br>
+     <strong>Student number:</strong> 202513901<br>
      <strong>Description:</strong> Backend for recording IT support requests
      (Network, Software, Hardware).</p>
 
